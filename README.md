@@ -1,4 +1,4 @@
-# Hi there, I'm Kromo 👋
+# Hi there, I'm Richmond👋
 
 I'm a passionate **Junior Frontend Developer** and a recent **BSc IT graduate** on an exciting journey into web development! I enjoy building visually appealing and user-friendly websites using **HTML** and **CSS**, and I'm currently expanding my skills in JavaScript and modern frontend frameworks.
 
