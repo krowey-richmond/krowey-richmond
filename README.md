@@ -5,7 +5,6 @@
 
 I'm a recent IT graduate specializing in **frontend development**, with a strong foundation in **HTML5, CSS3, and responsive design**. I thrive on turning ideas into intuitive, visually appealing websites and am currently leveling up my **JavaScript** and **React.js** skills to create dynamic user experiences.  
 
----
 
 ## 🚀 About Me  
 
@@ -17,7 +16,7 @@ I'm a recent IT graduate specializing in **frontend development**, with a strong
   - Exploring **UI/UX principles** for better design decisions  
 - 🎹 **Beyond Code:** Music lover, problem solver, and advocate for clean, semantic markup.  
 
----
+
 
 ## 🛠️ Technical Skills  
 
@@ -32,7 +31,7 @@ I'm a recent IT graduate specializing in **frontend development**, with a strong
 - Collaborative team player  
 - Adaptable learner (documentation + hands-on practice)  
 
----
+
 
 ## 🔥 Projects  
 
@@ -48,7 +47,7 @@ I'm a recent IT graduate specializing in **frontend development**, with a strong
 
 *(Tip: Hyperlink your actual projects when possible!)*  
 
----
+
 
 ## 📫 Let's Connect  
 
@@ -56,7 +55,7 @@ I'm a recent IT graduate specializing in **frontend development**, with a strong
 - 📧 **Email** – [kroweyrichmond2004@gmail.com](mailto:kroweyrichmond2004@gmail.com)  
 - 🐱 **GitHub** – *(Add your GitHub profile link here!)*  
 
----
+
 
 ## ⚡ Fun Facts  
 
@@ -64,7 +63,6 @@ I'm a recent IT graduate specializing in **frontend development**, with a strong
 - 🧠 **Learning mantra:** *"Code, break, debug, repeat."*  
 - 🌍 Dream: To contribute to open-source projects that make a social impact.  
 
----
 
 ### **Looking For:**  
 - **Internships/Junior Roles** in frontend development  
@@ -73,5 +71,5 @@ I'm a recent IT graduate specializing in **frontend development**, with a strong
 
 *(Ready to build something awesome? Let’s connect!)*  
 
----  
+
 
