@@ -1,6 +1,3 @@
-Here's an enhanced version of your profile with more details, structure, and professional flair while keeping it engaging:
-
----
 
 # Hi there, I'm Richmond 👋  
 
