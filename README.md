@@ -122,7 +122,8 @@ I'm actively looking for:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krowey-richmond&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=krowey-richmond&icon=0&color=2)
+![](https://komarev.com/ghpvc/?username=krowey-richmond&color=blueviolet&style=flat-square&label=Profile+Views)
+
 
 ---
 
