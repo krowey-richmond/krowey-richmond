@@ -118,8 +118,6 @@ Open to:
 
 <div align="center">
 
-**⚡ Fun Fact:** I debug with the same patience I use to tune a guitar—slowly, methodically, and with lots of coffee ☕
-
 _Open to opportunities • Always learning • Let's build something cool together_
 
 </div>
