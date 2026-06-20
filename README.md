@@ -51,7 +51,9 @@ Right now, I'm leveling up into modern frontend development:
 Personal portfolio project (in progress / to be added soon).
 
 **What I’ll focus on:** responsive layout, clean UI, and real-world structure  
-🔗 Live Demo: _Coming Soon_ • Code: _Coming Soon_
+🔗 [Live Demo](#)
+ • [View Code](https://github.com/krowey-richmond/portfolio)
+
 
 ---
 
@@ -60,7 +62,7 @@ Personal portfolio project (in progress / to be added soon).
 A modern landing page for a grocery store built using HTML and CSS.
 
 **What I learned:** layout design, responsiveness, and UI structure  
-🔗 [Live Demo](#) • [View Code](#)
+🔗 [Live Demo](https://grocery-shop-krb.netlify.app/) • [View Code](https://github.com/krowey-richmond/grocery-shop)
 
 ---
 
@@ -69,7 +71,7 @@ A modern landing page for a grocery store built using HTML and CSS.
 Small JavaScript apps like calculator, todo app, and note app to practice DOM manipulation and localStorage.
 
 **What I learned:** logic building, DOM handling, and state management  
-🔗 [View Projects](https://github.com/krowey-richmond/my-portfolio/tree/main/projects/intermediate)
+🔗 [View Projects](#)
 
 ---
 
