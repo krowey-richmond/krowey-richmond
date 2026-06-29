@@ -10,9 +10,9 @@ I'm a recent IT grad focused on building real-world skills through consistent pr
 
 Right now, I'm leveling up into modern frontend development:
 
-- 📚 Completed HTML, CSS, and JavaScript fundamentals
+- 📚 Completed HTML, CSS, JavaScript fundamentals
+- ✅ Comfortable with **Git & GitHub workflows**
 - 🎨 Currently learning **Tailwind CSS**
-- 🔧 Getting comfortable with **Git & GitHub workflows**
 - ⚛️ Preparing for **React**
 - 🚀 Building small projects to reinforce everything I learn
 
@@ -25,7 +25,6 @@ Right now, I'm leveling up into modern frontend development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Styling & Frameworks:**
 
@@ -35,7 +34,7 @@ Right now, I'm leveling up into modern frontend development:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Next Up:**
@@ -50,10 +49,11 @@ Right now, I'm leveling up into modern frontend development:
 
 Personal portfolio project (in progress / to be added soon).
 
-**What I’ll focus on:** responsive layout, clean UI, and real-world structure  
-🔗 [Live Demo](#)
- • [View Code](https://github.com/krowey-richmond/portfolio)
+**What I’ll focus on:** responsive layout, clean UI, and real-world structure
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://krowey-richmond.vercel.app/)
+
+## [![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krowey-richmond/portfolio)
 
 ---
 
@@ -61,8 +61,11 @@ Personal portfolio project (in progress / to be added soon).
 
 A modern landing page for a grocery store built using HTML and CSS.
 
-**What I learned:** layout design, responsiveness, and UI structure  
-🔗 [Live Demo](https://grocery-shop-krb.netlify.app/) • [View Code](https://github.com/krowey-richmond/grocery-shop)
+**What I learned:** layout design, responsiveness, and UI structure
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://grocery-shop-krb.vercel.app/)
+
+## [![View Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krowey-richmond/grocery-shop)
 
 ---
 
@@ -70,8 +73,9 @@ A modern landing page for a grocery store built using HTML and CSS.
 
 Small JavaScript apps like calculator, todo app, and note app to practice DOM manipulation and localStorage.
 
-**What I learned:** logic building, DOM handling, and state management  
-🔗 [View Projects](#)
+**What I learned:** logic building, DOM handling, and state management
+
+## [![View Projects](https://img.shields.io/badge/View-projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krowey-richmond?tab=repositories)
 
 ---
 
@@ -108,7 +112,11 @@ Open to:
 - 👥 Learning communities
 
 **Reach me here:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krowey-richmond) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kroweyrichmond2004@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/krowey-richmond)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krowey-richmond)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krowey-richmond)<br/>
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kroweyrichmond2004@email.com)
 
 ---
 
@@ -125,4 +133,3 @@ _Open to opportunities • Always learning • Let's build something cool togeth
 </div>
 
 ---
-
